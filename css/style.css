@@ -1,0 +1,98 @@
+body {
+    background-image: url("../assets/img/background.jpg");
+    background-repeat: repeat;
+    width:100%;
+}
+
+.header {
+text-align:center;
+width:100%
+}
+.nav{
+    background-color: rgb(153, 26, 26);
+    text-align: center;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+    text-decoration:none;
+    height: 40px;
+    top:5%;
+    left:5px;
+    right:5px;
+}
+
+#nav:hover{
+    font-size: 22px;
+    font-style: bold;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+    text-decoration:none;
+    height: 40px;
+    color:rgb(178, 232, 216);
+}
+
+#nav {
+    margin:5px;
+    text-decoration:none;
+    color:rgb(246, 244, 244);
+    
+   
+}
+
+.footer{
+    background-color: rgb(153, 26, 26);
+    text-align: center;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+    text-decoration:none;
+    height: 40px;
+    top:5%;
+    left:5px;
+    right: 5px;
+}
+
+h6 {
+    color:white
+}
+
+
+
+.media {
+    width:100%;
+    text-align:center;
+    left:20%;
+}
+
+#jordanpicture {
+    text-align:center;
+    width: 50%;
+
+}
+
+#jordanvideo {
+    width:50%; 
+    height:550px;
+}
+
+#tableau {
+    width: 100%;
+    text-align:center;
+}
+.tableauPlaceholder {
+    text-align:center;
+    left:10%;
+    width:50%
+}
+
+.listtitle {
+    left:40%;
+    width:100%;
+}
